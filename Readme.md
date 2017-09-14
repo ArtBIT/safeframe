@@ -1,7 +1,5 @@
 
-========================================================
-  SafeFrames Reference Implementation
-========================================================
+# SafeFrames Reference Implementation
 
 SafeFrames is a specification that allows a publishing website 
 to display advertising content in a way that does not allow
@@ -18,9 +16,7 @@ Also view:
 
 The SafeFrames Reference Implementation
 
-======================================
-Files and Directories
-======================================
+# Files and Directories
 
   /src
         This contains the actual javascript and HTML source required
@@ -34,9 +30,7 @@ Files and Directories
 
 
 
-=======================================
-LICENCE
-=======================================
+# LICENCE
 Copyright (c) 2012, Interactive Advertising Bureau
 All rights reserved.
 
